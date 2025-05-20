@@ -13,7 +13,7 @@ Use your plugin manager of choice, e.g.
 ### With Lazy.nvim
 
 ```lua
-{ "rafamadriz/friendly-snippets" }
+{ "saladwithgrass/saladiwthgrass-friendly-snippets" }
 ```
 
 > [!WARNING]
